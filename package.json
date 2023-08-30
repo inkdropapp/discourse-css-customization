@@ -1,5 +1,5 @@
 {
-  "author": "Jordan Vidrine",
+  "author": "Takuya Matsuyama",
   "license": "MIT",
   "devDependencies": {
     "eslint-config-discourse": "^3.3.0"
